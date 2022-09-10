@@ -1,0 +1,23 @@
+body{
+    padding-left: 10px;
+    padding-right:10px;
+    padding-top:5px;
+    padding-bottom: 10px;
+}
+
+
+
+.tamaño{
+    width:28rem;
+    height: 16rem;
+}
+
+.tamaño2{
+    width:29rem;
+    height:16rem;
+}
+
+.tamaño3{
+    width:26,5rem;
+    height: 16rem;
+}
